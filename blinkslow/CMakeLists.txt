@@ -1,5 +1,5 @@
 add_executable(blinkslow
-        blinkslow.c
+        blinkslow.cpp
         )
 
 # Pull in our pico_stdlib which pulls in commonly used features
